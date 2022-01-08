@@ -1,1 +1,3 @@
 Ismael Romero es un desarrollador backend
+
+Puedo concluir la edición de el archivo, en otro pc.
